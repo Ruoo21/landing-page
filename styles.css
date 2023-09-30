@@ -13,8 +13,7 @@ body {
 }
 .background-blue {
     background-color: #1F2937;
-    border: 4px solid purple;
-    height: 400px;
+    height: 800px;
 }
 
 a,
@@ -45,7 +44,24 @@ h1 {
 }
 .main-text {
     /* border: 2px solid blue; */
-    padding-top: 20px;
+    padding-top: 200px;
     padding-left: 55px;
 
+}
+
+.collage {
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    top: -200px;
+    left: -150px;
+
+}
+
+.movie-collage {
+    display: flex;
+    justify-content: right;
+    padding-right: 200px;
+    
 }
