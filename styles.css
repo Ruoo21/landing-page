@@ -1,0 +1,23 @@
+.header {
+  display: inline-flex;
+  position: absolute; top: 0px; right: 0px;
+  right: 0px;
+  justify-content: flex-end;
+  gap: 8px;
+
+}
+.background-blue {
+    background-color: #1F2937;
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #E5E7EB;
+  padding-top: 10px;
+  padding-right: 15px;
+}
+
+body {
+  font-family: Roboto, Arial;
+}
